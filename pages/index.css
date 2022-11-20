@@ -28,8 +28,6 @@
 @import url(../bloks/section-title/_theme/section-title_theme_dark.css);
 /* section-subtitle */
 @import url(../bloks/section-subtitle/section-subtitle.css);
-
-@import url();
 /* cards */
 @import url(../bloks/cards/__title/cards__title.css);
 @import url(../bloks/cards/__item/cards__item.css);
